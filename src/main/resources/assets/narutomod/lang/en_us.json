@@ -1,0 +1,8 @@
+{
+  "item.narutomod.kunai": "Minato's Kunai",
+  "entity.narutomod.kunai": "Minato's Kunai",
+  "itemGroup.narutomod.naruto": "Naruto",
+  "key.category.narutomod.naruto": "Naruto",
+  "key.narutomod.hiraishin": "Flying Thunder God (teleport to kunai)",
+  "message.narutomod.no_kunai": "No marked kunai nearby"
+}

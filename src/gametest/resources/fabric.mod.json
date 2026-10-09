@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"id": "narutomod-test",
+	"version": "1.0.0",
+	"name": "Naruto Mod - testes",
+	"environment": "*",
+	"entrypoints": {
+		"fabric-client-gametest": [
+			"com.matheus.narutomod.test.HiraishinClientGameTest"
+		]
+	},
+	"depends": {
+		"narutomod": "*"
+	}
+}

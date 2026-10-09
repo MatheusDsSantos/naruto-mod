@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "narutomod",
+	"version": "${version}",
+	"name": "Naruto Mod",
+	"description": "Jutsus e ferramentas ninja de Naruto no Minecraft.",
+	"authors": [
+		"Matheus"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/narutomod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.matheus.narutomod.NarutoMod"
+		],
+		"client": [
+			"com.matheus.narutomod.client.NarutoModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
